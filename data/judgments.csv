@@ -1,0 +1,6 @@
+judgment_id,case_title,court,year,legal_issue,keywords,case_status,judgment_text
+J001,Sample Property Dispute,Supreme Court,2022,Property Dispute,property ownership family,Decided,Sample record about property ownership disputes
+J002,Sample Contract Dispute,High Court,2021,Contract Dispute,contract agreement breach,Decided,Sample record about breach of contract
+J003,Sample Employment Case,High Court,2023,Employment Dispute,employment salary worker,Decided,Sample record about employment rights
+J004,Sample Consumer Case,District Court,2020,Consumer Dispute,consumer product complaint,Decided,Sample record about consumer rights
+J005,Sample Land Dispute,Supreme Court,2024,Land Dispute,land ownership registration,Decided,Sample record about land ownership
